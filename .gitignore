@@ -1,0 +1,14 @@
+build/
+.gradle/
+__pycache__/
+generated/
+intermediates/
+.idea/
+tmp/
+outputs/logs/
+snapshot/
+*.class
+*.apk
+*.aar
+*.dex
+.DS_Store

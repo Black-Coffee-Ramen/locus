@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.IndoorNavigation" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#3D5AFE</item>
+        <item name="colorPrimaryVariant">#0031CA</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorSecondary">#00E5FF</item>
+        <item name="colorOnSecondary">#000000</item>
+        <item name="android:statusBarColor">#1A1A2E</item>
+        <item name="android:navigationBarColor">#1A1A2E</item>
+        <item name="android:windowBackground">#0F0F1A</item>
+    </style>
+</resources>
